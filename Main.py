@@ -176,4 +176,4 @@ print('aantal negatieve comments voorspeld als positief: ' + str(aantalNegPosVoo
 done = time.time()
 
 elapsed = done - start
-print(elapsed)
+print(elapsed);
